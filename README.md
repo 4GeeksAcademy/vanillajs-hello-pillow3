@@ -1,3 +1,7 @@
+![image](https://github.com/4GeeksAcademy/vanillajs-hello-pillow3/assets/118123543/3140878f-30c1-4aed-9e7d-361a085bc47f)
+
+
+
 # Hello World with Vanilla JS
 
 Start coding a JS/HTML/CSS website in 30 seconds by opening this template in [Codespaces](https://github.com/codespaces/new/?repo=4GeeksAcademy/vanillajs-hello) or [Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git).
